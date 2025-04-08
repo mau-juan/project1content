@@ -91,10 +91,11 @@ footer {
     width: 100%;
 }
 
-/* Button styling */
+/* Button Index Page styling */
 .button {
     display: inline-block;
     margin-top: 15px;
+    margin-bottom: 50px;
     padding: 10px 20px;
     background-color: #8a552b;
     color: white;
